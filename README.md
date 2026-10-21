@@ -70,6 +70,16 @@ Due to their large size, the data are not included in this repository.
 - Some scripts share similar logic and may contain redundant parts for clarity during experimentation.
 - Parameter settings (e.g., voxel size, thresholds) follow those described in the report.
 
+
+---
+
+## Project Report
+
+The detailed methodology, experimental results, and limitations are documented in the [Final Project Report](reports/Jialin_Chen_finalreport.pdf).
+
+*Note: The report references the original university-hosted GitLab repository. This GitHub repository provides the publicly accessible version of the project code.*
+
+
 ---
 
 ## Author
