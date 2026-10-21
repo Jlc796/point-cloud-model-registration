@@ -27,8 +27,9 @@ The code was developed and tested with:
 ├── experiments/
 │   ├── tuning_tum_entrance.py
 │   └── window_prior_test.py
+├── reports/
+│   └── Jialin_Chen_finalreport.pdf
 └── README.md
-
 ```
 ---
 ## Workflow
@@ -51,6 +52,8 @@ python main_registration.py
 
 
 Additional experiments can be found in the `experiments/` folder.
+
+Before running, update MODEL_PATH and MLS_PATH in main_registration.py to point to your local input datasets.
 
 ---
 
